@@ -8,7 +8,7 @@
 
 4. use vtf edit on windows to make the vtf file and vmt file. name them the way crowbar says to name them when viewing info on .mdl file (same name as in blender). it will say the file name it expects the texture to be.
 
-5. move these files into where the qc file says it will look for them. in my case it was ``garrys_mod/addons``` and ```garrys_mod/materials```. you probably don't need to add this to both but I did just to make sure it worked.
+5. move these files into where the qc file says it will look for them. in my case it was ``garrys_mod/addons``` and ```garrys_mod/materials```. you probably don't need to add this to both but I did just to make sure it worked. the folder models/cam_head and all the files in it should be moved into the addons of garrys mod. the vmt and vtf files should be added into addons but in materials/models/cam_head
 
 ## PRO TIPS 
 
