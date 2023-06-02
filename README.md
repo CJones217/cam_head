@@ -17,3 +17,10 @@
 - use vtf edit in windows to edit the vmt file so that it has the right paths to the vtf file and stuff. you can probably use vim too.
 
 - in the vmt file, make sure you have the correct path to the vtf filei(should be the same as the ```$cdmaterials``` line in the qc file). since I did this on windows when everything else was on linux. the path was wrong so I had to fix this.
+
+
+## videos used as reference
+
+https://www.youtube.com/watch?v=XNg_UouLbcA
+
+https://www.youtube.com/watch?v=VAYWPY7EkaQ
