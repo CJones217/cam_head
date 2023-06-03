@@ -5,7 +5,7 @@ $body mybody "cam_head.smd"
 $staticprop
 
 $surfaceprop "metal"
-$cdmaterials "models/cam_head/"
+$cdmaterials "materials/cam_head/"
 
 $sequence idle "cam_head_idle.smd" loop fps 1
 
