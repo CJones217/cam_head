@@ -1,11 +1,9 @@
 {
-	"title"     :    "RandyBeans Head Prop",
-	"type"      :    "model",
-	"tags"      :    ["fun","realism"],
-	"ignore"    :
+	"title": "RandyBeans Head Prop",
+	"type": "model",
+	"tags": 
 	[
-		"*.psd",
-		"*.vcproj",
-		"*,svn"
+		"fun",
+		"realism"
 	]
 }
